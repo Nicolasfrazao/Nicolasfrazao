@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicolasfrazao
-- 👀 I’m interested in front-end, back-end, full-stack, AI and machine learning projects
+- 👀 I’m interested in front-end, back-end, full-stack and AI projects
 - 🌱 I’m currently learning front-end aplications with react framework
 - 📫 How to reach me, email me at nicolas_frazao@hotmail.com or www.linkedin.com/in/nicolas-fraz%C3%A3o-b6591225b/
 
